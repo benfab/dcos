@@ -3,7 +3,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "benfab/dcos-bootcamp-cd:latest",
+      "image": "benfab/dcos-bootcamp-cd:b02c39e10e0cf6c883da5d1ad435bcc27148bf2d",
       "network": "BRIDGE",
       "portMappings": [
         {
